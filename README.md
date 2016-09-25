@@ -5,7 +5,7 @@ Key Subjects
 Conditional Random Fields
 Gaussian Process
 Gradient Boosted Trees
-Elasticsearch
++ Elasticsearch
 Hidden Markov Models
 Hierarchical Clustering
 Information Retrieval Algorithms
